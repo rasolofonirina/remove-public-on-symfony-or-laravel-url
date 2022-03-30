@@ -13,6 +13,5 @@ RewriteRule ^(.*)$ /public/$1 [L,QSA]
 ```
 <br>
 <br>
-<p align="center">
-<a href="https://www.buymeacoffee.com/rasolofonirina"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rasolofonirina&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
+
+You can buy me a coffee [here](https://www.buymeacoffee.com/rasolofonirina).
